@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("main change and get ready to merge problems");
         System.out.println("hot-fix change and get ready to merge ,merge problems");
         System.out.println("github change and ready pull");
+        System.out.println("github second change and ready pull");
     }
 }
